@@ -1,0 +1,3 @@
+> run
+$ copy-file changes/A1.scala A.scala
+> run
